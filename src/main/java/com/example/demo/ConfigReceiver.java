@@ -1,4 +1,4 @@
-package Configuration;
+package com.example.demo;
 
 
 import org.springframework.amqp.core.BindingBuilder;
